@@ -114,7 +114,7 @@ grid-template-columns: 1fr 1fr;
 grid-template-rows: 1fr 1fr 1fr;
 }
 .red4 {
-  width: 450px; 
+  width: 1fr; 
   height: 600px; 
   background-color: red; 
   grid-row: 1/4;
